@@ -1,0 +1,6 @@
+c:\users\eugen\documents\visual studio 2013\Projects\TriangleApp\TriangleApp\bin\Debug\TriangleApp.exe.config
+c:\users\eugen\documents\visual studio 2013\Projects\TriangleApp\TriangleApp\bin\Debug\TriangleApp.exe
+c:\users\eugen\documents\visual studio 2013\Projects\TriangleApp\TriangleApp\bin\Debug\TriangleApp.pdb
+c:\users\eugen\documents\visual studio 2013\Projects\TriangleApp\TriangleApp\obj\Debug\TriangleApp.csprojResolveAssemblyReference.cache
+c:\users\eugen\documents\visual studio 2013\Projects\TriangleApp\TriangleApp\obj\Debug\TriangleApp.exe
+c:\users\eugen\documents\visual studio 2013\Projects\TriangleApp\TriangleApp\obj\Debug\TriangleApp.pdb

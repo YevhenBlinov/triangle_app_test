@@ -1,0 +1,7 @@
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\TriangleApp\TriangleAppUnitTests\bin\Debug\TriangleAppUnitTests.dll
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\TriangleApp\TriangleAppUnitTests\bin\Debug\TriangleAppUnitTests.pdb
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\TriangleApp\TriangleAppUnitTests\bin\Debug\TriangleApp.exe
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\TriangleApp\TriangleAppUnitTests\bin\Debug\TriangleApp.pdb
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\TriangleApp\TriangleAppUnitTests\obj\Debug\TriangleAppUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\TriangleApp\TriangleAppUnitTests\obj\Debug\TriangleAppUnitTests.dll
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\TriangleApp\TriangleAppUnitTests\obj\Debug\TriangleAppUnitTests.pdb
